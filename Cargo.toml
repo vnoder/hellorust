@@ -1,0 +1,11 @@
+[package]
+name = "helloweb"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+actix = "0.13.5"
+actix-files = "0.6.6"
+actix-rt = "2.10.0"
+actix-web = "4.8.0"
+rocket = "0.5.1"
